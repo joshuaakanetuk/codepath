@@ -1,23 +1,23 @@
-# Prework - *Hello Word*
+# Prework - *I Love Code*
 
 Submitted by: **Joshua Akan-Etuk**
 
-**Name of your app** is an app that... [TODO] 
+**I Love Code** is an app that introduces the world to Joshua Akan-Etuk.
 
-Time spent: **n** hours spent in total
+Time spent: **6** hours spent in total.
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<a href="https://www.youtube.com/embed/Km6X8-QsQ58?si=coRBr3V34jb-hwPO">
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+</a>
 
 ## App Brainstorming (Step 4)
 
@@ -35,14 +35,15 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
     - Extremely stable: I think it's a blessing to see a popular app not stuff the application with features.
 
     
-App Idea:     
+App Idea: Competitive Letterboxd. I want the features of Letterboxd, the gamification of Duolingo, and the customization of Duolingo. I want an app to make me feel bad for not watching movies and Duolingo is great at that. Letterboxd is great for social movie watching, but I don't find movies there (usually its chatter from Twitter). With competition and newer movies weighted higher would drive a bunch of people watching the newest thing more often.
 
     
     
 ## Notes
 
 Describe any challenges encountered while building the app. (what should i add)
-- Changing the default viewcontrolller to experiment.
+- Changing the default viewcontrolller to experiment with rotating text.
+- XCode's git manager is not the most intuitive. 
 
 ## License
 
