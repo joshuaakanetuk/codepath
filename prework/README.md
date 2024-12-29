@@ -19,6 +19,9 @@ The following **required** functionality is completed:
 
 </a>
 
+[![image here](https://img.youtube.com/vi/Km6X8-QsQ58/maxresdefault.jpg)](https://www.youtube.com/watch?v=Km6X8-QsQ58)
+
+
 ## App Brainstorming (Step 4)
 
 - Duolingo
